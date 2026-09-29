@@ -1454,6 +1454,7 @@ application_number,status
 80403442,Approved
 80404342,Approved
 80404352,Refused
+80404382,Approved
 80404402,Approved
 80404862,Approved
 80405212,Approved
@@ -1696,7 +1697,9 @@ application_number,status
 80527282,Approved
 80527312,Refused
 80527392,Approved
+80527952,Approved
 80527992,Refused
+80528102,Approved
 80528222,Refused
 80528832,Refused
 80528932,Approved
@@ -1791,8 +1794,12 @@ application_number,status
 80566192,Approved
 80567062,Approved
 80567192,Approved
+80567232,Approved
 80567252,Approved
+80567322,Approved
 80567392,Approved
+80567402,Approved
+80567422,Approved
 80567452,Refused
 80567542,Refused
 80567852,Approved
@@ -1876,6 +1883,7 @@ application_number,status
 80603432,Refused
 80603512,Approved
 80603862,Approved
+80604002,Approved
 80605462,Refused
 80606322,Approved
 80606562,Approved
@@ -1906,6 +1914,7 @@ application_number,status
 80620342,Refused
 80620802,Approved
 80620942,Approved
+80621202,Approved
 80621422,Approved
 80621632,Approved
 80621762,Approved
@@ -2083,6 +2092,7 @@ application_number,status
 80669062,Approved
 80669222,Approved
 80670372,Refused
+80670792,Approved
 80673712,Approved
 80674602,Approved
 80674922,Approved
@@ -2099,6 +2109,7 @@ application_number,status
 80679472,Approved
 80679602,Refused
 80679632,Approved
+80679722,Approved
 80679772,Approved
 80679922,Refused
 80680202,Approved
@@ -2468,6 +2479,7 @@ application_number,status
 80813452,Refused
 80813692,Refused
 80814432,Refused
+80815602,Approved
 80816652,Approved
 80816802,Approved
 80816842,Approved
@@ -2526,6 +2538,7 @@ application_number,status
 80835142,Approved
 80835522,Approved
 80835602,Refused
+80835832,Approved
 80836082,Approved
 80836162,Approved
 80836852,Approved
@@ -11688,6 +11701,7 @@ application_number,status
 82201882,Approved
 82202642,Approved
 82202762,Approved
+82202782,Approved
 82202902,Approved
 82203012,Approved
 82203212,Approved
@@ -25058,7 +25072,6 @@ application_number,status
 83878532,Approved
 83878622,Approved
 83878632,Approved
-83878642,Approved
 83878662,Refused
 83878672,Approved
 83878702,Approved
@@ -25461,6 +25474,7 @@ application_number,status
 83928602,Approved
 83928612,Refused
 83928662,Approved
+83928752,Refused
 83928812,Refused
 83928852,Approved
 83928882,Approved
@@ -25577,6 +25591,7 @@ application_number,status
 83938422,Approved
 83938532,Approved
 83938562,Refused
+83939062,Refused
 83939222,Approved
 83939272,Approved
 83939352,Approved
@@ -26421,7 +26436,6 @@ application_number,status
 84034782,Approved
 84034792,Approved
 84034892,Approved
-84034962,Approved
 84035002,Refused
 84035072,Approved
 84035112,Approved
@@ -27488,12 +27502,14 @@ application_number,status
 84157412,Approved
 84157572,Refused
 84157742,Refused
+84158052,Refused
 84158132,Approved
 84158262,Refused
 84158272,Approved
 84158382,Approved
 84158412,Approved
 84158442,Approved
+84158452,Refused
 84158512,Approved
 84159102,Refused
 84159142,Approved
@@ -27563,6 +27579,7 @@ application_number,status
 84170772,Approved
 84170902,Refused
 84171282,Approved
+84171642,Refused
 84172012,Approved
 84172162,Refused
 84172242,Approved
@@ -27572,12 +27589,14 @@ application_number,status
 84172532,Refused
 84172792,Approved
 84172972,Approved
+84173012,Refused
 84173102,Approved
 84173192,Approved
 84173472,Approved
 84173522,Approved
 84173552,Refused
 84174072,Approved
+84174132,Refused
 84174302,Approved
 84174372,Refused
 84174452,Approved
@@ -27666,12 +27685,14 @@ application_number,status
 84189092,Approved
 84189102,Refused
 84189132,Approved
+84189272,Refused
 84189312,Refused
 84189402,Approved
 84189542,Approved
 84189642,Approved
 84189662,Approved
 84189711,Refused
+84189932,Refused
 84189962,Approved
 84190402,Refused
 84190462,Approved
@@ -27815,6 +27836,7 @@ application_number,status
 84206002,Approved
 84206692,Approved
 84207102,Approved
+84207382,Refused
 84207532,Approved
 84207602,Approved
 84207912,Approved
@@ -27828,6 +27850,7 @@ application_number,status
 84209042,Approved
 84209162,Approved
 84209342,Approved
+84209952,Refused
 84210212,Approved
 84210472,Approved
 84210952,Approved
@@ -27968,6 +27991,7 @@ application_number,status
 84226162,Approved
 84226282,Approved
 84226372,Approved
+84226452,Refused
 84226512,Refused
 84226532,Approved
 84226572,Approved
@@ -27985,6 +28009,7 @@ application_number,status
 84227662,Approved
 84227722,Approved
 84227742,Approved
+84227832,Refused
 84227892,Approved
 84227942,Refused
 84228212,Approved
@@ -28211,11 +28236,13 @@ application_number,status
 84256842,Approved
 84256972,Approved
 84257022,Refused
+84257102,Refused
 84257182,Approved
 84257252,Refused
 84257362,Refused
 84257382,Approved
 84257422,Approved
+84257462,Refused
 84257892,Approved
 84257932,Approved
 84257942,Approved
@@ -28239,6 +28266,7 @@ application_number,status
 84259792,Approved
 84259832,Refused
 84259952,Approved
+84260022,Refused
 84260332,Approved
 84260412,Approved
 84260662,Approved
@@ -28714,6 +28742,7 @@ application_number,status
 84310282,Approved
 84310292,Approved
 84310332,Refused
+84310342,Refused
 84310362,Approved
 84310382,Approved
 84310392,Refused
@@ -28729,6 +28758,7 @@ application_number,status
 84310842,Approved
 84310862,Approved
 84310912,Refused
+84311072,Refused
 84311142,Approved
 84311342,Refused
 84311362,Approved
@@ -28908,6 +28938,7 @@ application_number,status
 84335002,Approved
 84335032,Approved
 84335132,Approved
+84335142,Refused
 84335352,Approved
 84335862,Approved
 84337652,Approved
@@ -29124,13 +29155,16 @@ application_number,status
 84357452,Approved
 84357562,Approved
 84358022,Approved
+84358102,Refused
 84358152,Refused
 84358372,Approved
 84358682,Approved
 84358772,Approved
 84358962,Approved
 84359162,Approved
+84359322,Refused
 84359812,Refused
+84359922,Refused
 84360762,Approved
 84361182,Approved
 84361272,Approved
@@ -29209,6 +29243,7 @@ application_number,status
 84365492,Approved
 84365552,Approved
 84365572,Approved
+84365602,Refused
 84365832,Approved
 84365852,Approved
 84365882,Approved
@@ -29536,6 +29571,7 @@ application_number,status
 84399052,Refused
 84399202,Approved
 84399212,Approved
+84399352,Refused
 84399492,Approved
 84399662,Approved
 84399702,Approved
@@ -29543,8 +29579,10 @@ application_number,status
 84399882,Refused
 84400142,Approved
 84400602,Approved
+84400712,Refused
 84400732,Approved
 84401112,Approved
+84401152,Refused
 84401422,Approved
 84401622,Approved
 84401792,Approved
@@ -29552,6 +29590,7 @@ application_number,status
 84401932,Approved
 84401982,Approved
 84403032,Approved
+84403182,Refused
 84403372,Approved
 84403382,Approved
 84403902,Approved
@@ -29683,6 +29722,7 @@ application_number,status
 84417792,Approved
 84417812,Approved
 84417862,Approved
+84417882,Approved
 84417892,Approved
 84417952,Refused
 84418122,Refused
@@ -29902,6 +29942,7 @@ application_number,status
 84439062,Approved
 84439072,Approved
 84439272,Approved
+84439302,Refused
 84439382,Approved
 84439562,Approved
 84439582,Approved
@@ -30044,6 +30085,7 @@ application_number,status
 84458802,Approved
 84458882,Approved
 84459032,Approved
+84459042,Refused
 84459052,Approved
 84459162,Refused
 84459332,Approved
@@ -30057,6 +30099,7 @@ application_number,status
 84460512,Approved
 84460742,Refused
 84460962,Approved
+84461252,Refused
 84461392,Approved
 84461422,Approved
 84461462,Approved
@@ -30125,6 +30168,7 @@ application_number,status
 84470912,Approved
 84471112,Approved
 84471212,Approved
+84471242,Refused
 84471272,Approved
 84471392,Approved
 84471432,Approved
@@ -30213,6 +30257,7 @@ application_number,status
 84476852,Approved
 84476872,Approved
 84476962,Refused
+84477072,Refused
 84477102,Approved
 84477202,Approved
 84477212,Approved
@@ -30229,6 +30274,7 @@ application_number,status
 84477792,Approved
 84477802,Approved
 84477842,Approved
+84478072,Refused
 84478102,Approved
 84478152,Refused
 84478172,Approved
@@ -30243,10 +30289,12 @@ application_number,status
 84478812,Approved
 84478822,Approved
 84478972,Approved
+84479042,Refused
 84479092,Refused
 84479182,Refused
 84479252,Approved
 84479342,Refused
+84479412,Refused
 84479482,Approved
 84479512,Approved
 84479522,Approved
@@ -30288,16 +30336,19 @@ application_number,status
 84483012,Approved
 84483282,Approved
 84483342,Approved
+84483382,Approved
 84483612,Approved
 84483692,Approved
 84483722,Approved
 84483982,Refused
 84483992,Approved
 84484032,Approved
+84484282,Refused
 84484352,Refused
 84484362,Approved
 84484432,Approved
 84484662,Approved
+84484852,Refused
 84484892,Refused
 84484912,Approved
 84485262,Approved
@@ -30319,10 +30370,13 @@ application_number,status
 84487362,Approved
 84487512,Approved
 84487522,Refused
+84487742,Refused
 84487982,Approved
 84488062,Approved
 84488072,Approved
+84488152,Refused
 84488162,Approved
+84488192,Refused
 84488542,Refused
 84488732,Refused
 84488742,Approved
@@ -30351,6 +30405,7 @@ application_number,status
 84494252,Approved
 84494282,Approved
 84494332,Approved
+84494342,Approved
 84494392,Approved
 84494442,Refused
 84494502,Approved
@@ -30513,11 +30568,14 @@ application_number,status
 84508472,Approved
 84508562,Refused
 84508672,Refused
+84508682,Refused
 84508712,Approved
 84508882,Approved
 84508952,Refused
 84509182,Refused
+84509252,Refused
 84509302,Refused
+84509862,Refused
 84510082,Approved
 84510222,Approved
 84510232,Approved
@@ -30525,17 +30583,21 @@ application_number,status
 84510702,Approved
 84510922,Approved
 84511132,Approved
+84511142,Refused
 84511342,Approved
 84511372,Approved
 84511492,Refused
 84511572,Approved
 84511612,Approved
+84511622,Refused
+84511662,Refused
 84511702,Approved
 84511922,Refused
 84511952,Approved
 84512122,Approved
 84512202,Approved
 84512312,Approved
+84512712,Refused
 84513012,Approved
 84513232,Approved
 84513322,Approved
@@ -30561,6 +30623,7 @@ application_number,status
 84518382,Approved
 84518412,Refused
 84518422,Approved
+84518492,Refused
 84518502,Approved
 84518562,Approved
 84518582,Refused
@@ -30617,6 +30680,7 @@ application_number,status
 84520912,Approved
 84520952,Approved
 84520982,Approved
+84521012,Refused
 84521102,Refused
 84521162,Approved
 84521172,Approved
@@ -30675,6 +30739,7 @@ application_number,status
 84525872,Approved
 84525882,Refused
 84525912,Refused
+84525982,Approved
 84525992,Approved
 84526042,Approved
 84526052,Approved
@@ -30722,7 +30787,9 @@ application_number,status
 84529212,Approved
 84529292,Refused
 84529532,Refused
+84529732,Refused
 84529912,Approved
+84530152,Refused
 84530162,Refused
 84530182,Approved
 84530212,Approved
@@ -30763,6 +30830,7 @@ application_number,status
 84537512,Approved
 84537852,Refused
 84537862,Approved
+84537872,Refused
 84538822,Approved
 84540192,Approved
 84540332,Approved
@@ -30901,6 +30969,7 @@ application_number,status
 84549492,Refused
 84549512,Approved
 84549582,Refused
+84549652,Refused
 84549672,Approved
 84549692,Approved
 84549722,Refused
@@ -30910,6 +30979,7 @@ application_number,status
 84549912,Approved
 84550082,Approved
 84550122,Approved
+84550182,Refused
 84550192,Approved
 84550332,Refused
 84550392,Approved
@@ -30968,6 +31038,7 @@ application_number,status
 84555212,Approved
 84555242,Approved
 84555302,Approved
+84555312,Refused
 84555372,Approved
 84555592,Approved
 84555812,Approved
@@ -31058,6 +31129,7 @@ application_number,status
 84565222,Approved
 84565322,Refused
 84565332,Approved
+84565342,Approved
 84565372,Approved
 84565382,Approved
 84565462,Approved
@@ -31108,6 +31180,7 @@ application_number,status
 84568472,Refused
 84568512,Approved
 84568522,Approved
+84568562,Refused
 84568682,Approved
 84568762,Approved
 84568772,Approved
@@ -31150,6 +31223,7 @@ application_number,status
 84571952,Refused
 84572092,Approved
 84572112,Approved
+84572162,Refused
 84572182,Approved
 84572212,Approved
 84572272,Approved
@@ -31169,6 +31243,7 @@ application_number,status
 84573592,Approved
 84573622,Approved
 84573752,Approved
+84573982,Approved
 84574532,Approved
 84574882,Approved
 84575192,Approved
@@ -31179,6 +31254,7 @@ application_number,status
 84576832,Refused
 84576852,Refused
 84576892,Approved
+84577142,Refused
 84577362,Approved
 84577452,Approved
 84577562,Approved
@@ -31410,6 +31486,7 @@ application_number,status
 84603392,Refused
 84603952,Approved
 84604492,Approved
+84604632,Refused
 84604672,Approved
 84604712,Approved
 84605412,Approved
@@ -31417,6 +31494,7 @@ application_number,status
 84606252,Approved
 84607432,Approved
 84607652,Approved
+84607982,Approved
 84608822,Approved
 84609042,Approved
 84609662,Refused
@@ -31574,9 +31652,11 @@ application_number,status
 84622262,Refused
 84622402,Approved
 84623392,Approved
+84623682,Approved
 84623712,Approved
 84623742,Approved
 84624142,Approved
+84624392,Approved
 84624592,Approved
 84624722,Approved
 84624852,Approved
@@ -31759,6 +31839,7 @@ application_number,status
 84642872,Approved
 84642972,Approved
 84643042,Approved
+84643072,Refused
 84643122,Approved
 84643152,Approved
 84643232,Approved
@@ -31848,6 +31929,7 @@ application_number,status
 84654112,Approved
 84654312,Approved
 84655102,Refused
+84655132,Refused
 84656652,Approved
 84656812,Approved
 84657362,Approved
@@ -32903,13 +32985,16 @@ application_number,status
 84763392,Approved
 84763412,Approved
 84763622,Refused
+84763652,Approved
 84763982,Approved
 84764052,Approved
 84764352,Approved
 84764402,Refused
 84764472,Approved
 84764742,Approved
+84764752,Approved
 84765202,Approved
+84765432,Approved
 84765892,Approved
 84765902,Refused
 84766022,Approved
@@ -33088,8 +33173,10 @@ application_number,status
 84785142,Approved
 84785522,Refused
 84785842,Approved
+84786282,Approved
 84786362,Approved
 84786702,Approved
+84786782,Approved
 84786792,Approved
 84786822,Approved
 84786922,Approved
@@ -33333,6 +33420,7 @@ application_number,status
 84818632,Approved
 84818692,Refused
 84818772,Approved
+84818822,Refused
 84818852,Refused
 84818882,Approved
 84818922,Approved
@@ -33407,6 +33495,7 @@ application_number,status
 84823102,Approved
 84823132,Approved
 84823182,Refused
+84823252,Refused
 84823342,Approved
 84823372,Refused
 84823472,Approved
@@ -33699,6 +33788,7 @@ application_number,status
 84850832,Approved
 84850892,Approved
 84850922,Refused
+84850942,Approved
 84851002,Approved
 84851402,Refused
 84851432,Approved
@@ -33718,6 +33808,7 @@ application_number,status
 84854122,Approved
 84854332,Approved
 84855052,Approved
+84855232,Approved
 84855672,Approved
 84856252,Approved
 84856502,Approved
@@ -33735,6 +33826,7 @@ application_number,status
 84859852,Approved
 84859882,Approved
 84859952,Approved
+84860092,Refused
 84860122,Refused
 84860192,Approved
 84860202,Approved
@@ -33956,16 +34048,19 @@ application_number,status
 84890302,Approved
 84890462,Approved
 84890582,Approved
+84890602,Approved
 84890702,Approved
 84890742,Approved
 84890812,Approved
 84890862,Approved
 84890992,Approved
 84891172,Approved
+84891182,Approved
 84891292,Approved
 84891322,Approved
 84891342,Approved
 84891382,Refused
+84891412,Approved
 84891422,Approved
 84891432,Approved
 84891482,Refused
@@ -34029,6 +34124,7 @@ application_number,status
 84896732,Approved
 84896852,Approved
 84896892,Approved
+84896942,Approved
 84896992,Approved
 84897032,Approved
 84897262,Approved
@@ -34289,7 +34385,6 @@ application_number,status
 84933842,Refused
 84933852,Approved
 84933862,Approved
-84933872,Approved
 84933882,Refused
 84933932,Refused
 84934002,Approved
@@ -34551,6 +34646,7 @@ application_number,status
 84961072,Refused
 84961082,Approved
 84961102,Approved
+84961122,Refused
 84961172,Refused
 84961182,Refused
 84961262,Approved
@@ -34753,6 +34849,7 @@ application_number,status
 84986432,Approved
 84986742,Approved
 84987062,Approved
+84987182,Approved
 84987412,Approved
 84987512,Refused
 84987622,Approved
@@ -34781,17 +34878,20 @@ application_number,status
 84994492,Approved
 84994512,Approved
 84994572,Approved
+84994612,Refused
 84994622,Approved
 84994632,Approved
 84994652,Approved
 84994682,Refused
 84994702,Approved
 84994732,Approved
+84994762,Refused
 84994772,Approved
 84994792,Approved
 84994852,Approved
 84994872,Approved
 84994922,Approved
+84994972,Approved
 84994992,Approved
 84995022,Approved
 84995042,Approved
@@ -35024,8 +35124,10 @@ application_number,status
 85025432,Approved
 85025542,Approved
 85025572,Approved
+85025802,Refused
 85025902,Approved
 85025952,Approved
+85026032,Approved
 85026052,Approved
 85026142,Approved
 85026162,Refused
@@ -35155,6 +35257,7 @@ application_number,status
 85045442,Refused
 85045502,Refused
 85045552,Approved
+85045562,Refused
 85045572,Approved
 85045612,Approved
 85045832,Refused
@@ -35222,6 +35325,7 @@ application_number,status
 85052282,Approved
 85052382,Approved
 85052392,Approved
+85052482,Refused
 85052542,Approved
 85052552,Approved
 85052642,Approved
@@ -35283,6 +35387,7 @@ application_number,status
 85065082,Approved
 85065132,Approved
 85065162,Approved
+85065212,Refused
 85065262,Approved
 85065282,Refused
 85065292,Approved
@@ -35291,6 +35396,7 @@ application_number,status
 85065392,Approved
 85065472,Refused
 85065512,Approved
+85065682,Refused
 85065722,Approved
 85065742,Refused
 85065782,Approved
@@ -35322,6 +35428,7 @@ application_number,status
 85067362,Approved
 85067452,Approved
 85067482,Refused
+85067632,Refused
 85067642,Approved
 85067692,Approved
 85067822,Approved
@@ -35372,6 +35479,7 @@ application_number,status
 85072222,Approved
 85072242,Refused
 85072272,Approved
+85072362,Approved
 85072402,Refused
 85072662,Refused
 85072722,Refused
@@ -35451,12 +35559,14 @@ application_number,status
 85086722,Approved
 85086792,Approved
 85086832,Approved
+85086842,Approved
 85087002,Approved
 85087052,Approved
 85087132,Approved
 85087142,Approved
 85087152,Approved
 85087192,Approved
+85087292,Approved
 85087352,Approved
 85087372,Approved
 85087392,Approved
@@ -35497,11 +35607,13 @@ application_number,status
 85090952,Approved
 85091062,Approved
 85091202,Refused
+85091222,Refused
 85091292,Approved
 85091532,Approved
 85091562,Approved
 85091822,Refused
 85092042,Approved
+85092282,Refused
 85092452,Approved
 85092542,Approved
 85092552,Approved
@@ -35542,6 +35654,7 @@ application_number,status
 85096212,Approved
 85096832,Approved
 85096952,Approved
+85097002,Refused
 85097162,Approved
 85097292,Approved
 85097332,Refused
@@ -35566,6 +35679,7 @@ application_number,status
 85106522,Approved
 85106582,Approved
 85106772,Approved
+85106812,Approved
 85106832,Refused
 85106902,Approved
 85106932,Approved
@@ -35586,6 +35700,7 @@ application_number,status
 85108012,Approved
 85108072,Approved
 85108142,Approved
+85108212,Refused
 85108222,Approved
 85108712,Approved
 85108792,Approved
@@ -35674,6 +35789,7 @@ application_number,status
 85123872,Refused
 85123962,Approved
 85123972,Refused
+85124142,Refused
 85124282,Approved
 85124432,Refused
 85124482,Refused
@@ -35685,6 +35801,7 @@ application_number,status
 85124732,Refused
 85124742,Approved
 85124792,Approved
+85124802,Refused
 85124822,Refused
 85124862,Approved
 85124872,Approved
@@ -35705,9 +35822,11 @@ application_number,status
 85126032,Approved
 85126112,Approved
 85126132,Approved
+85126222,Refused
 85126312,Approved
 85126332,Approved
 85126532,Refused
+85126572,Approved
 85126582,Refused
 85126682,Refused
 85126762,Approved
@@ -35716,6 +35835,7 @@ application_number,status
 85126942,Approved
 85127072,Approved
 85127082,Approved
+85127112,Approved
 85127122,Approved
 85127132,Approved
 85127192,Approved
@@ -35725,6 +35845,7 @@ application_number,status
 85127432,Approved
 85127462,Approved
 85127602,Refused
+85127632,Approved
 85127662,Approved
 85128002,Approved
 85128082,Approved
@@ -35755,8 +35876,11 @@ application_number,status
 85137692,Approved
 85137722,Approved
 85137812,Approved
+85137862,Approved
 85137942,Approved
+85138192,Approved
 85138252,Approved
+85138372,Approved
 85138512,Approved
 85138562,Approved
 85138692,Approved
@@ -35768,6 +35892,7 @@ application_number,status
 85140352,Approved
 85140632,Approved
 85141202,Approved
+85141432,Refused
 85141712,Approved
 85141762,Refused
 85142232,Approved
@@ -35806,13 +35931,18 @@ application_number,status
 85149032,Approved
 85149042,Approved
 85149072,Approved
+85149172,Approved
 85149182,Refused
 85149192,Refused
+85149512,Approved
 85149612,Refused
 85149662,Approved
 85149792,Approved
+85149862,Approved
+85150102,Approved
 85150242,Approved
 85150272,Approved
+85150412,Refused
 85150462,Approved
 85150492,Approved
 85150502,Approved
@@ -35824,6 +35954,7 @@ application_number,status
 85151042,Refused
 85151232,Approved
 85151372,Approved
+85151522,Refused
 85151742,Approved
 85151772,Approved
 85151832,Approved
@@ -35843,18 +35974,25 @@ application_number,status
 85153252,Approved
 85153282,Approved
 85153402,Refused
+85153422,Approved
 85153632,Approved
 85153672,Approved
 85153962,Refused
+85153992,Refused
 85154072,Approved
+85154292,Approved
+85154622,Approved
 85154632,Approved
 85154732,Refused
 85154832,Approved
+85154862,Approved
 85154882,Approved
 85154912,Approved
 85154972,Approved
 85155182,Approved
+85155402,Approved
 85155422,Approved
+85155442,Approved
 85155652,Approved
 85155662,Approved
 85155722,Approved
@@ -35890,6 +36028,7 @@ application_number,status
 85159012,Approved
 85159162,Approved
 85159172,Approved
+85159332,Refused
 85159642,Approved
 85160142,Approved
 85160242,Refused
@@ -35935,6 +36074,7 @@ application_number,status
 85171202,Approved
 85171232,Refused
 85171242,Approved
+85171322,Refused
 85171352,Approved
 85171392,Refused
 85171442,Approved
@@ -35949,6 +36089,7 @@ application_number,status
 85172132,Approved
 85172562,Approved
 85172582,Approved
+85172752,Refused
 85172782,Approved
 85172812,Approved
 85173082,Approved
@@ -35996,6 +36137,7 @@ application_number,status
 85178012,Approved
 85178242,Approved
 85178282,Approved
+85178542,Refused
 85178582,Approved
 85178622,Approved
 85178732,Approved
@@ -36035,10 +36177,12 @@ application_number,status
 85186632,Approved
 85186792,Approved
 85187162,Approved
+85187622,Approved
 85188132,Approved
 85189072,Approved
 85189722,Approved
 85191382,Approved
+85191392,Refused
 85191502,Approved
 85191542,Approved
 85191552,Approved
@@ -36088,6 +36232,7 @@ application_number,status
 85195792,Approved
 85195822,Approved
 85195862,Approved
+85195992,Refused
 85196082,Approved
 85196312,Approved
 85196452,Approved
@@ -36098,6 +36243,7 @@ application_number,status
 85196792,Refused
 85196892,Refused
 85196952,Approved
+85197072,Refused
 85197132,Approved
 85197292,Approved
 85197362,Approved
@@ -36133,8 +36279,10 @@ application_number,status
 85204142,Approved
 85204812,Approved
 85204992,Approved
+85205382,Refused
 85206172,Approved
 85206572,Approved
+85206802,Refused
 85206842,Approved
 85206992,Approved
 85207642,Approved
@@ -36189,6 +36337,7 @@ application_number,status
 85215902,Approved
 85215962,Approved
 85216032,Approved
+85216072,Approved
 85216222,Approved
 85216262,Approved
 85216302,Approved
@@ -36213,6 +36362,8 @@ application_number,status
 85218442,Approved
 85218852,Approved
 85218932,Approved
+85219242,Approved
+85219252,Approved
 85219292,Refused
 85219362,Approved
 85219502,Approved
@@ -36260,6 +36411,7 @@ application_number,status
 85229912,Approved
 85229922,Approved
 85229932,Refused
+85230022,Approved
 85230042,Refused
 85230282,Approved
 85230352,Refused
@@ -36282,6 +36434,7 @@ application_number,status
 85233142,Approved
 85233162,Refused
 85233172,Approved
+85233582,Refused
 85233662,Approved
 85233862,Approved
 85233892,Approved
@@ -36294,6 +36447,7 @@ application_number,status
 85235212,Approved
 85235352,Approved
 85235612,Refused
+85235732,Refused
 85235782,Approved
 85235862,Approved
 85235902,Approved
@@ -36322,10 +36476,12 @@ application_number,status
 85243142,Approved
 85243332,Approved
 85243502,Refused
+85243812,Approved
 85243832,Approved
 85243892,Approved
 85244062,Approved
 85244082,Approved
+85244152,Refused
 85244172,Approved
 85244182,Approved
 85244232,Refused
@@ -36415,6 +36571,7 @@ application_number,status
 85268702,Approved
 85268942,Approved
 85269002,Approved
+85269252,Approved
 85269262,Approved
 85269292,Refused
 85269392,Approved
@@ -36425,6 +36582,7 @@ application_number,status
 85270372,Refused
 85270962,Approved
 85271002,Approved
+85271202,Approved
 85271342,Refused
 85271362,Approved
 85271472,Refused
@@ -36449,6 +36607,7 @@ application_number,status
 85276632,Approved
 85276642,Approved
 85276662,Approved
+85276772,Refused
 85276862,Approved
 85277132,Approved
 85277442,Approved
@@ -36467,6 +36626,7 @@ application_number,status
 85280292,Approved
 85280512,Approved
 85280752,Approved
+85281232,Approved
 85281242,Approved
 85281452,Approved
 85281482,Approved
@@ -36563,6 +36723,7 @@ application_number,status
 85301272,Approved
 85301872,Approved
 85301932,Approved
+85302062,Approved
 85302192,Approved
 85302702,Approved
 85302912,Approved
@@ -36609,6 +36770,7 @@ application_number,status
 85312732,Approved
 85312822,Approved
 85312852,Approved
+85312882,Approved
 85313062,Approved
 85313652,Approved
 85314152,Approved
@@ -36630,8 +36792,10 @@ application_number,status
 85317262,Approved
 85317392,Approved
 85317672,Approved
+85317722,Refused
 85317932,Approved
 85317982,Approved
+85318022,Approved
 85318262,Approved
 85318392,Approved
 85318452,Approved
@@ -36665,10 +36829,13 @@ application_number,status
 85326622,Approved
 85326982,Approved
 85327022,Approved
+85327282,Approved
 85327632,Approved
 85327822,Approved
 85328002,Approved
 85328392,Approved
+85328532,Approved
+85329042,Approved
 85329982,Approved
 85330052,Approved
 85330102,Approved
@@ -36739,6 +36906,7 @@ application_number,status
 85338172,Approved
 85338242,Approved
 85338682,Approved
+85338742,Approved
 85338842,Approved
 85338852,Approved
 85339132,Refused
@@ -36776,8 +36944,11 @@ application_number,status
 85349662,Refused
 85350172,Approved
 85350342,Approved
+85350422,Approved
+85350842,Approved
 85350912,Refused
 85351122,Approved
+85351152,Approved
 85351202,Approved
 85351402,Approved
 85351602,Approved
@@ -36796,6 +36967,7 @@ application_number,status
 85353042,Approved
 85353092,Refused
 85353202,Approved
+85353272,Approved
 85354362,Approved
 85354862,Approved
 85354952,Approved
@@ -36806,6 +36978,7 @@ application_number,status
 85356732,Approved
 85357082,Approved
 85358062,Approved
+85358282,Approved
 85359782,Approved
 85360822,Refused
 85362142,Approved
@@ -36857,10 +37030,12 @@ application_number,status
 85367512,Approved
 85367682,Approved
 85368052,Approved
+85368062,Approved
 85368122,Approved
 85368142,Approved
 85368332,Approved
 85368342,Approved
+85368952,Approved
 85369022,Approved
 85369282,Approved
 85369452,Approved
@@ -36870,9 +37045,14 @@ application_number,status
 85370072,Approved
 85370132,Approved
 85370282,Approved
+85370952,Approved
+85374042,Approved
 85374322,Approved
+85374342,Approved
 85375212,Approved
 85375392,Approved
+85375442,Approved
+85375482,Approved
 85376622,Approved
 85376852,Approved
 85377132,Approved
@@ -36886,6 +37066,7 @@ application_number,status
 85381882,Approved
 85382562,Approved
 85382902,Approved
+85383652,Approved
 85383682,Approved
 85384502,Approved
 85384692,Approved
@@ -36924,6 +37105,7 @@ application_number,status
 85392682,Approved
 85393072,Approved
 85393842,Approved
+85393932,Approved
 85394042,Approved
 85394252,Approved
 85394302,Approved
@@ -36943,6 +37125,7 @@ application_number,status
 85396972,Approved
 85397602,Approved
 85398532,Approved
+85398822,Approved
 85399312,Approved
 85399572,Approved
 85400602,Approved
@@ -37009,6 +37192,7 @@ application_number,status
 85419602,Approved
 85420172,Approved
 85420242,Refused
+85421022,Refused
 85421082,Approved
 85421992,Approved
 85422302,Approved
@@ -37020,6 +37204,7 @@ application_number,status
 85423862,Approved
 85424572,Approved
 85424982,Approved
+85426162,Approved
 85427072,Approved
 85427122,Approved
 85427272,Approved
@@ -37033,6 +37218,7 @@ application_number,status
 85428512,Approved
 85428542,Approved
 85428622,Approved
+85428632,Approved
 85428672,Approved
 85428832,Refused
 85428882,Approved
@@ -37116,6 +37302,7 @@ application_number,status
 85453802,Approved
 85453832,Approved
 85453962,Approved
+85455012,Refused
 85455812,Approved
 85456932,Approved
 85457112,Approved
@@ -37126,10 +37313,12 @@ application_number,status
 85460932,Approved
 85462632,Approved
 85462772,Approved
+85463312,Refused
 85464672,Approved
 85465022,Approved
 85465322,Approved
 85465562,Approved
+85465612,Approved
 85465622,Approved
 85465672,Approved
 85465682,Approved
@@ -37138,9 +37327,11 @@ application_number,status
 85466052,Approved
 85466222,Approved
 85466832,Approved
+85467122,Approved
 85467322,Approved
 85467342,Refused
 85467362,Approved
+85467662,Approved
 85468192,Approved
 85468382,Approved
 85468632,Approved
@@ -37157,6 +37348,7 @@ application_number,status
 85477302,Approved
 85477542,Approved
 85478202,Approved
+85478842,Approved
 85480332,Approved
 85480932,Approved
 85481072,Approved
@@ -37167,22 +37359,27 @@ application_number,status
 85485032,Approved
 85487182,Approved
 85487212,Refused
+85488132,Approved
 85489092,Approved
 85490442,Approved
 85490722,Approved
 85491052,Approved
 85491292,Approved
+85492732,Approved
 85493052,Approved
 85493202,Approved
 85493302,Approved
 85493332,Approved
 85493442,Approved
+85493902,Approved
 85494022,Approved
 85494052,Approved
 85494092,Approved
 85494722,Approved
 85494882,Approved
+85495932,Approved
 85496192,Approved
+85496282,Approved
 85497282,Approved
 85500442,Approved
 85500492,Approved
@@ -37192,6 +37389,7 @@ application_number,status
 85501682,Refused
 85501802,Approved
 85502022,Approved
+85502182,Refused
 85502602,Refused
 85502792,Approved
 85502942,Approved
@@ -37262,6 +37460,7 @@ application_number,status
 85541032,Approved
 85541052,Approved
 85541502,Approved
+85541592,Refused
 85541922,Approved
 85542172,Approved
 85542202,Approved
@@ -37341,6 +37540,7 @@ application_number,status
 85586052,Refused
 85586192,Approved
 85586702,Approved
+85587462,Approved
 85587902,Approved
 85591292,Approved
 85591492,Approved
@@ -37354,6 +37554,7 @@ application_number,status
 85598242,Approved
 85598892,Approved
 85599142,Approved
+85600812,Approved
 85602852,Approved
 85603032,Approved
 85603542,Approved
@@ -37378,8 +37579,10 @@ application_number,status
 85618272,Approved
 85618442,Approved
 85619212,Approved
+85620032,Approved
 85620922,Approved
 85621512,Approved
+85622032,Approved
 85622102,Refused
 85622562,Approved
 85622622,Approved
@@ -37388,6 +37591,7 @@ application_number,status
 85623462,Approved
 85623492,Approved
 85624412,Approved
+85624602,Approved
 85627172,Refused
 85629802,Approved
 85632892,Refused
@@ -37446,6 +37650,7 @@ application_number,status
 85692362,Approved
 85695552,Approved
 85695742,Approved
+85698442,Approved
 85698612,Approved
 85698802,Approved
 85699202,Approved
@@ -37478,6 +37683,7 @@ application_number,status
 85727232,Approved
 85729242,Approved
 85729452,Refused
+85730182,Approved
 85732002,Approved
 85732712,Approved
 85732802,Approved
@@ -37485,11 +37691,15 @@ application_number,status
 85735262,Approved
 85741652,Approved
 85741872,Approved
+85741972,Approved
 85742242,Approved
 85743112,Approved
+85743442,Approved
 85743472,Approved
 85743852,Approved
 85743922,Approved
+85745022,Approved
+85745102,Approved
 85745532,Approved
 85745932,Approved
 85753262,Approved
@@ -37498,9 +37708,12 @@ application_number,status
 85755332,Approved
 85756932,Approved
 85758352,Refused
+85759062,Approved
 85759152,Approved
 85762462,Approved
 85764782,Approved
+85765412,Approved
+85765572,Approved
 85770562,Approved
 85776592,Approved
 85777082,Approved
@@ -37531,11 +37744,16 @@ application_number,status
 85795992,Refused
 85796092,Approved
 85796152,Approved
+85797782,Approved
 85797962,Approved
 85798222,Approved
+85798502,Approved
 85798682,Approved
 85802892,Approved
+85804812,Approved
+85805332,Approved
 85809412,Approved
+85809652,Approved
 85810512,Refused
 85812412,Approved
 85815502,Approved
@@ -37544,6 +37762,9 @@ application_number,status
 85835872,Approved
 85836822,Approved
 85838002,Approved
+85840072,Approved
+85840532,Approved
+85841162,Approved
 85850592,Approved
 85851372,Approved
 85851392,Approved
@@ -37569,4 +37790,6 @@ application_number,status
 85945442,Approved
 85960332,Approved
 85971062,Approved
+85975382,Approved
 86020432,Approved
+86043642,Approved
